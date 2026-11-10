@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.SnapLog" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- keep empty -->
+    </style>
+</resources>
